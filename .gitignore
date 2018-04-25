@@ -102,3 +102,6 @@ ENV/
 
 #IDE
 .idea/
+
+# User Info (aka my stuff)
+userinfo
